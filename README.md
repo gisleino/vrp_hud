@@ -7,3 +7,5 @@
   
  **Instalacao:**
   - Bote o survival.lua em vrp/modules, coloque o vrp_hud na pasta resources e de start no server.cfg!
+  
+   **Obs:** Se a barra estivar vazia quer dizer que voce esta com fome/sede!
