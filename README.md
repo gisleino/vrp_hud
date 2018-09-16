@@ -1,7 +1,5 @@
-#HUD feito por Marmota
-
-**vrp_hud:**
- - É uma HUD simples de sede e fome!
+title: "vrp_hud"
+ - Uma HUD simples de sede e fome!
 
 
   ![Screenshot](https://imgur.com/r4XV6lb.png)
@@ -9,4 +7,3 @@
   
  **Instalacao:**
   - Bote o survival.lua em vrp/modules, coloque o vrp_hud na pasta resources e de start no server.cfg!
-
