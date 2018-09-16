@@ -1,7 +1,7 @@
 local Tunnel = module("vrp", "lib/Tunnel")
 local cfg = module("cfg/survival")
 local lang = vRP.lang
-ClientHud = Tunnel.getInterface("vrp_hud")
+HUDclient = Tunnel.getInterface("vrp_hud")
 -- api
 
 function vRP.getHunger(user_id)
